@@ -1,2 +1,25 @@
 # DP-700-Work-with-data-in-a-Microsoft-Fabric-eventhouse
 In this exercise, you’ll create and populate an eventhouse with some sample data related to taxi rides, and then query the data using KQL and SQL.
+## Screenshots
+![ex5](https://github.com/user-attachments/assets/30757d85-1634-4376-8abc-424dd2953fbb)
+![ex5_2](https://github.com/user-attachments/assets/6727157d-89dd-4670-9847-01301f86a9c4)
+![ex5_3](https://github.com/user-attachments/assets/8037aced-37a9-43db-b155-ee7965219594)
+![ex5_4](https://github.com/user-attachments/assets/48fd676b-ebb5-4077-b271-12189c022495)
+![ex5_5](https://github.com/user-attachments/assets/d65bb8af-d0d3-4c10-bc1b-361dfe3927ff)
+![ex5_6](https://github.com/user-attachments/assets/6effb10d-5468-4937-81af-52f071ed3a1e)
+![ex5_6_2](https://github.com/user-attachments/assets/ddbc197f-5529-4aac-8faf-5f8c461d0d47)
+![ex5_6_3](https://github.com/user-attachments/assets/4cdba872-90fd-4e6d-bcfe-377029e13702)
+![ex5_6_4](https://github.com/user-attachments/assets/53d2da98-0941-4ac8-aecc-2731cfb3b4dd)
+![ex5_6_5](https://github.com/user-attachments/assets/e2306814-73ab-467e-a3a1-597272b2ff19)
+![ex5_7](https://github.com/user-attachments/assets/5f8a5119-abb8-4521-bdc1-3483192bd2eb)
+![ex5_7_2](https://github.com/user-attachments/assets/543942d7-304a-453d-92d8-8e78d64dddc6)
+![ex5_8](https://github.com/user-attachments/assets/16caf42a-c28c-4aac-9086-d4809957a83f)
+![ex5_9](https://github.com/user-attachments/assets/731070cf-249b-47cd-a99d-52c289dc2bff)
+![ex5_9_1](https://github.com/user-attachments/assets/a3403afb-c194-4b9b-81da-a8113b2d419e)
+![ex5_9_2](https://github.com/user-attachments/assets/42807ee5-e251-4b0a-8d82-1b218151505e)
+![ex5_9_3](https://github.com/user-attachments/assets/bd6a0807-a81d-4ae5-9903-f5c02fe63b9b)
+![ex5_9_4](https://github.com/user-attachments/assets/b8d9dedd-0a6a-4986-bec6-6bb6b093bb02)
+![ex5_9_5sort](https://github.com/user-attachments/assets/ff947f4e-dba5-4d0e-bb17-68b20e1dca26)
+![ex5_9_6](https://github.com/user-attachments/assets/665ffe62-a24a-4b0a-b0de-807030792dce)
+![ex5_end](https://github.com/user-attachments/assets/fa7468d7-4a23-4d1c-a371-1a1cd635446b)
+
